@@ -4,7 +4,7 @@
 
 </div>
 
-**Software Engineering Student @ ACPCE | Aspiring Full Stack Developer**
+**Learning Offensive & Defensive Security | SOC Labs & Linux Log Analysis**
 
 ---
 Welcome to my GitHub — where I’m learning, building, and bringing ideas to life 🚀.
