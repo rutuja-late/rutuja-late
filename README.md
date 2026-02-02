@@ -1,8 +1,9 @@
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=650&lines=Hi,+I'm+Rutuja+Late+👋;Aspiring+SOC+%26+Cybersecurity+Analyst;Learning+Linux,+Logs+%26+Security+Fundamentals)
-
-</div>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&center=true&vCenter=true&lines=Hi,+I'm+Rutuja+Late+👋;Aspiring+SOC+%26+Cybersecurity+Analyst;Let's+secure+systems+%26+build+impactful+solutions+together!" 
+    alt="Typing SVG" 
+  />
+</p>
 
 **Cybersecurity & SOC Enthusiast | Linux Log Analysis | Network Security Fundamentals**
 
@@ -27,6 +28,7 @@ I’m a B.Tech Computer Science student actively transitioning into **cybersecur
 
 - **Tools & Technologies:**  
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  
+  ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)  
   ![Nmap](https://img.shields.io/badge/-Nmap-004170?style=flat&logo=nmap)  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
@@ -64,4 +66,5 @@ I’m a B.Tech Computer Science student actively transitioning into **cybersecur
 
 ---
 
-Thanks for visiting! I’m continuously learning and growing in cybersecurity 🚀
+Thanks for visiting! Let’s build impactful and secure solutions together 🚀
+
