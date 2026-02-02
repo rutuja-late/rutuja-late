@@ -62,7 +62,7 @@ I’m a B.Tech Computer Science student actively transitioning into **cybersecur
 ### 🌍 Location & Contact
 📍 Mumbai, India  
 ✉ Email: rutujalate26@gmail.com  
-🔗 LinkedIn: [rutuja-late](https://www.linkedin.com/in/rutuja-late/)
+🔗 LinkedIn: [rutuja-late](https://www.linkedin.com/in/rutuja-late-88681833b/)
 
 ---
 
