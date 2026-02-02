@@ -1,45 +1,67 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi,+I'm+Rutuja+Late👋;Aspiring+Full-stack+Developer;Let's+build+something+amazing+together!%E2%80%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=650&lines=Hi,+I'm+Rutuja+Late+👋;Aspiring+SOC+%26+Cybersecurity+Analyst;Learning+Linux,+Logs+%26+Security+Fundamentals)
 
 </div>
 
-**Learning Offensive & Defensive Security | SOC Labs & Linux Log Analysis**
+**Cybersecurity & SOC Enthusiast | Linux Log Analysis | Network Security Fundamentals**
 
 ---
-Welcome to my GitHub — where I’m learning, building, and bringing ideas to life 🚀.
 
-### 🚀 What I’m Building
-Recently created a **QR code-enabled food ordering website** using HTML, CSS, and AI-assisted JavaScript — deployed on GitHub Pages. I’m hands-on with project structure, UI design, and problem-solving.
+Welcome to my GitHub 👋  
+I’m a B.Tech Computer Science student actively transitioning into **cybersecurity and SOC operations**, building hands-on skills through labs, Linux environments, and practical security projects.
 
-### 💻 Skills & Tools
-- **Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)  
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)  
+---
 
+### 🔐 What I’m Currently Working On
+- SOC-style **log analysis** using Linux authentication logs
+- Network reconnaissance and service enumeration using **Nmap**
+- Understanding SSH security, failed login patterns, and brute-force behavior
+- Building a strong foundation in **Linux & security fundamentals**
 
-- **Tools & Platforms:**  
+---
+
+### 🧠 Skills & Tools
+- **Cybersecurity & SOC:**  
+  Linux Log Analysis, SSH Security, Network Scanning, Incident Analysis Basics
+
+- **Tools & Technologies:**  
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  
+  ![Nmap](https://img.shields.io/badge/-Nmap-004170?style=flat&logo=nmap)  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-  AI-assisted coding tools (ChatGPT)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-### 🎯 Currently Learning
-- Exploring core full-stack development concepts
-- Deepening understanding of HTML & CSS for frontend
-- Building complete full-stack applications
+- **Programming Basics:**  
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)  
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 
-### 🌟 Featured Projects
-- **Jugnu Soda Website** — QR code-based food ordering site deployed on GitHub Pages.  
-  [Live Demo](https://rutuja-late.github.io/jugnu-soda-website/)
+---
+
+### 📌 Featured Projects
+- **SOC Log Analysis (Hands-on Project)**  
+  Analyzed Linux authentication logs and simulated SSH brute-force attempts from a SOC perspective.  
+  *(Linux | Nmap | SSH | Log Analysis)*
+
+- **Jugnu Soda Website** *(Previous Project)*  
+  QR code-based food ordering website built using HTML & CSS and deployed on GitHub Pages.  
+  *(Demonstrates web fundamentals & project experience)*  
+  🔗 [soc](https://rutuja-late.github.io/jugnu-soda-website/)
+
+---
+
+### 🎯 Current Focus
+- Preparing for **SOC / Cybersecurity internships**
+- Strengthening Linux and security fundamentals
+- Building more hands-on security labs
+
+---
 
 ### 🌍 Location & Contact
-📍 Based in: Mumbai, India      
+📍 Mumbai, India  
 ✉ Email: rutujalate26@gmail.com  
-🔗 LinkedIn: [Rutuja Late](https://www.linkedin.com/in/rutuja-late/)
+🔗 LinkedIn: [rutuja_late](https://www.linkedin.com/in/rutuja-late/)
 
 ---
 
-Thanks for visiting my profile! Let’s build impactful solutions together. 🚀
+Thanks for visiting! I’m continuously learning and growing in cybersecurity 🚀
