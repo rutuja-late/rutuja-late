@@ -46,7 +46,7 @@ I’m a B.Tech Computer Science student actively transitioning into **cybersecur
 - **Jugnu Soda Website** *(Previous Project)*  
   QR code-based food ordering website built using HTML & CSS and deployed on GitHub Pages.  
   *(Demonstrates web fundamentals & project experience)*  
-  🔗 [soc](https://rutuja-late.github.io/jugnu-soda-website/)
+  🔗 [soc-lab-analysis-lab](https://github.com/rutuja-late/soc-log-analysis-lab)
 
 ---
 
