@@ -30,14 +30,14 @@ I enjoy analyzing attacker behavior, identifying patterns, and developing a stro
 ### 📌 Projects
 
 - **Brute Force Attack Detection & Analysis using Splunk**  
-  🔗 [Case Study](https://github.com/rutuja-late/soc-bruteforce-splunk) 
+  🔗 [Case Study](https://github.com/rutuja-late/splunk-brute-force-detection.git) 
   - Investigated a realistic SSH brute-force attack using Splunk  
   - Detected repeated failed login attempts from a malicious IP  
   - Correlated failed and successful login events  
   - Analyzed login patterns and attacker behavior  
 
 - **SOC Log Analysis Lab**  
-🔗 [Analysis](https://github.com/rutuja-late/soc-log-analysis-lab)
+🔗 [Analysis](https://github.com/rutuja-late/soc-log-analysis-lab.git)
   - Analyzed Linux authentication logs  
   - Investigated SSH failed login patterns  
   - Simulated reconnaissance using Nmap   
